@@ -1,1 +1,0 @@
-/Users/angshu/Documents/lifetime-learning/rust-book/concurrency/message_passing/target/debug/message_passing: /Users/angshu/Documents/lifetime-learning/rust-book/concurrency/message_passing/src/main.rs
